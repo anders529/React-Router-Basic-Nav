@@ -6,7 +6,7 @@ import './App.css';
 
 const App = () => (
   <div>
-    
+
     <Navigation />
 
     <Route exact path="/">
